@@ -1,16 +1,6 @@
-# flutter_application_1
+A filter application that displays a group of jewelry, and when clicking on the cart for the product, this product will be added to the purchases page
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Preview
+![1](https://user-images.githubusercontent.com/115875877/209949530-32ad34c4-265a-4a6d-a151-fc560bc78c1b.PNG)
+![5](https://user-images.githubusercontent.com/115875877/209949537-83363a73-467d-4977-a20f-845858988ded.PNG)
